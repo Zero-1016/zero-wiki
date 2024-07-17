@@ -19,7 +19,9 @@
                 <toc-element topic="우아한-타입스크립트-with-리액트.md"/>
             </toc-element>
             <toc-element topic="Algorithm.md">
-                <toc-element topic="코딩-테스트-합격자-되기.md"/>
+                <toc-element topic="코딩-테스트-합격자-되기.md">
+                    <toc-element topic="코딩-테스트를-준비하기-전에.md"/>
+                </toc-element>
             </toc-element>
             <toc-element topic="pattern.md">
                 <toc-element topic="리팩터링-2판.md"/>
