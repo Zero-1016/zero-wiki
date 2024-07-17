@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE categories
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/categories.dtd">
+<categories>
+    <category id="techs-wiki" name="기술을 공부하면서 정리하는 목록입니다." order="1"/>
+    <category id="books-wiki" name="책들을 읽으면서 정리하는 목록입니다." order="2"/>
+</categories>
