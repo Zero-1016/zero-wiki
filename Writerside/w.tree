@@ -31,7 +31,18 @@
             <toc-element topic="pattern.md">
                 <toc-element topic="리팩터링-2판.md"/>
                 <toc-element topic="리액트-훅을-활용한-마이크로-상태-관리.md"/>
-                <toc-element topic="클린-코드.md"/>
+                <toc-element topic="클린-코드.md">
+                    <toc-element topic="깨끗한-코드.md"/>
+                    <toc-element topic="의미-있는-이름.md"/>
+                    <toc-element topic="함수.md"/>
+                    <toc-element topic="주석.md"/>
+                    <toc-element topic="형식-맞추기.md"/>
+                    <toc-element topic="객체와-자료구조.md"/>
+                    <toc-element topic="오류-처리.md"/>
+                    <toc-element topic="경계.md"/>
+                    <toc-element topic="단위-테스트.md"/>
+                    <toc-element topic="클래스.md"/>
+                </toc-element>
                 <toc-element topic="쏙쏙-들어오는-함수형-코딩.md"/>
             </toc-element>
             <toc-element topic="React.md">
