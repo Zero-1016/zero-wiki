@@ -27,6 +27,7 @@
                     <toc-element topic="코딩테스트-필수-문법.md"/>
                     <toc-element topic="배열.md"/>
                     <toc-element topic="스택.md"/>
+                    <toc-element topic="큐.md"/>
                 </toc-element>
             </toc-element>
             <toc-element topic="pattern.md">
