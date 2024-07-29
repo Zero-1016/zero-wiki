@@ -33,6 +33,7 @@
                     <toc-element topic="배열.md"/>
                     <toc-element topic="스택.md"/>
                     <toc-element topic="큐.md"/>
+                    <toc-element topic="해시.md"/>
                 </toc-element>
             </toc-element>
             <toc-element topic="pattern.md">
