@@ -39,7 +39,11 @@
             </toc-element>
             <toc-element topic="pattern.md">
                 <toc-element topic="리팩터링-2판.md"/>
-                <toc-element topic="리액트-훅을-활용한-마이크로-상태-관리.md"/>
+                <toc-element topic="리액트-훅을-활용한-마이크로-상태-관리.md">
+                    <toc-element topic="리액트-훅과-마이크로-상태-관리.md"/>
+                    <toc-element topic="전역-상태에-대한-기초적인-접근법.md"/>
+                    <toc-element topic="라이브러리-구현-및-용도.md"/>
+                </toc-element>
                 <toc-element topic="클린-코드.md">
                     <toc-element topic="깨끗한-코드.md"/>
                     <toc-element topic="의미-있는-이름.md"/>
