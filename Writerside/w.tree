@@ -60,7 +60,9 @@
             </toc-element>
             <toc-element topic="React.md">
                 <toc-element topic="모던-리액트-Deep-Dive.md"/>
-                <toc-element topic="소플의-처음-만난-리액트.md"/>
+                <toc-element topic="소플의-처음-만난-리액트.md">
+                    <toc-element topic="리액트-시작-JSX.md"/>
+                </toc-element>
             </toc-element>
             <toc-element topic="NextJS.md">
                 <toc-element topic="실전에서-바로쓰는-Next-js.md"/>
