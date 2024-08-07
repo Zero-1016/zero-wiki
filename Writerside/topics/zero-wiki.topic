@@ -3,12 +3,12 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="books-wiki" id="books-wiki">
+       title="zero-wiki" id="zero-wiki" help-id="books-wiki">
 
     <section-starting-page>
-        <title>Books Wiki</title>
+        <title>Zero Wiki</title>
         <description>
-            책을 읽으면서 정리하는 페이지입니다.
+            공부를 하면서 정리하는 페이지입니다.
         </description>
 
         <spotlight>
