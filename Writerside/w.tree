@@ -78,6 +78,7 @@
             <toc-element topic="ReactNative.md"/>
             <toc-element topic="Expo.md">
                 <toc-element topic="엑스포-공식-문서.md">
+                    <toc-element topic="Expo-Router.md"/>
                     <toc-element topic="Expo-라우터에서의-인증.md"/>
                 </toc-element>
             </toc-element>
