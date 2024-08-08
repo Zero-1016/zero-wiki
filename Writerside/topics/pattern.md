@@ -1,3 +1,0 @@
-# Pattern
-
-Start typing here...

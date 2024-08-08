@@ -1,3 +1,0 @@
-# React
-
-Start typing here...
