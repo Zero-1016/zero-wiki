@@ -1,8 +1,8 @@
-# 리팩터링 2판
+# 켄트 벡의 Tidy First?
 
-<img src="리팩터링 2판.png" alt="리팩터링 2판" width="400" height="300"/>
+<img src="켄트 벡의 Tidy First.png" alt="켄트 벡의 Tidy First" width="400" height="300"/>
 
 
 | 총 페이지 | 읽은 기간                  | 책 정보                                                   |
 |-------|------------------------|--------------------------------------------------------|
-| 550p  | | [yes24](https://www.yes24.com/Product/Goods/89649360) |
+| 248p  | | [yes24](https://www.yes24.com/Product/Goods/125921718) |
