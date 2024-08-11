@@ -63,7 +63,10 @@
                 <toc-element topic="리액트-공식-문서.md">
                     <toc-element topic="UI를-트리로-이해하기.md"/>
                 </toc-element>
-                <toc-element topic="모던-리액트-Deep-Dive.md"/>
+                <toc-element topic="모던-리액트-Deep-Dive.md">
+                    <toc-element topic="리액트-개발을-위해-꼭-알아야-할-자바스크립트.md"/>
+                    <toc-element topic="리액트-핵심-요소-깊게-살펴보기.md"/>
+                </toc-element>
                 <toc-element topic="소플의-처음-만난-리액트.md">
                     <toc-element topic="리액트-ES6-문법-액기스.md"/>
                     <toc-element topic="리액트-시작-JSX.md"/>
