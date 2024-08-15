@@ -100,6 +100,9 @@
             </toc-element>
         </toc-element>
         <toc-element topic="CS.md">
+            <toc-element topic="CS-지식-정리.md">
+                <toc-element topic="HTTP-통신-쿠키-세션-JWT.md"/>
+            </toc-element>
             <toc-element topic="면접을-위한-CS-전공지식-노트.md"/>
             <toc-element topic="비전공자를-위한-이해할-수-있는-IT지식.md"/>
         </toc-element>
