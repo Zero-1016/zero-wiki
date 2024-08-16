@@ -98,6 +98,7 @@
                     <toc-element topic="Expo-Router.md"/>
                     <toc-element topic="Expo-라우터에서의-인증.md"/>
                     <toc-element topic="Expo-Deep-linking.md"/>
+                    <toc-element topic="Expo-Typed-Routes.md"/>
                 </toc-element>
             </toc-element>
         </toc-element>
