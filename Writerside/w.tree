@@ -39,6 +39,8 @@
                     <toc-element topic="백트래킹.md"/>
                     <toc-element topic="정렬.md"/>
                     <toc-element topic="시뮬레이션.md"/>
+                    <toc-element topic="동적-계획법.md"/>
+                    <toc-element topic="그리디.md"/>
                 </toc-element>
             </toc-element>
             <toc-element topic="pattern.md">
