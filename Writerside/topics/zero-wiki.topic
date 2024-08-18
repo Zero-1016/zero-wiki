@@ -13,7 +13,7 @@
 
         <spotlight>
             <a href="React.md" type="development" summary="리액트 관련 책들을 정리합니다.">React</a>
-            <a href="pattern.md" type="search" summary="클린 코드를 위한 디자인 패턴을 정리합니다.">패턴</a>
+            <a href="리액트-네이티브-테스트-라이브러리-공식-문서.md" type="bug" summary="리액트 네이티브 테스팅 라이브러리를 번역하여 작성합니다..">ReactNative Testing Libs</a>
         </spotlight>
 
         <primary>
