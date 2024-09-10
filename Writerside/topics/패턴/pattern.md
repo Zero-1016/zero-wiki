@@ -31,9 +31,4 @@
         <img src="실무로 통하는 클린 코드.png" alt="Pattern-5" height="300"/>
     </a>
 </li>
-<li>
-    <a href="켄트-벡의-Tidy-First.md">
-        <img src="켄트 벡의 Tidy First.png" alt="Pattern-7" height="300"/>
-    </a>
-</li>
 </list>

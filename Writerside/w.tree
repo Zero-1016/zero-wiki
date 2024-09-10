@@ -69,7 +69,6 @@
                 </toc-element>
                 <toc-element topic="자바스크립트-리액트-디자인-패턴.md"/>
                 <toc-element topic="실무로-통하는-클린-코드.md"/>
-                <toc-element topic="켄트-벡의-Tidy-First.md"/>
             </toc-element>
             <toc-element topic="React.md">
                 <toc-element topic="리액트-공식-문서.md">
@@ -140,6 +139,7 @@
             <toc-element topic="1만-시간의-재발견.md"/>
         </toc-element>
         <toc-element topic="소프트웨어-개발-방법론-프로젝트-관리.md">
+            <toc-element topic="소프트웨어-장인-프로페셔널리즘-실용주의-자부심.md"/>
             <toc-element topic="요즘-우아한-개발-배달의-민족을-만든-우아한-형제들의-조직문화-온보딩-기획-개발-인프라-구축-이야기.md">
                 <toc-element topic="배민다움-만들기.md"/>
                 <toc-element topic="프론트엔드-개발자로-성장하기.md"/>
@@ -150,7 +150,11 @@
                 <toc-element topic="시행착오-겪으며-성장하기.md"/>
             </toc-element>
             <toc-element topic="함께-자라기.md"/>
-            <toc-element topic="소프트웨어-장인-프로페셔널리즘-실용주의-자부심.md"/>
+            <toc-element topic="켄트-벡의-Tidy-First.md">
+                <toc-element topic="코드-정리법.md"/>
+                <toc-element topic="관리.md"/>
+                <toc-element topic="이론.md"/>
+            </toc-element>
         </toc-element>
     </toc-element>
 </instance-profile>
