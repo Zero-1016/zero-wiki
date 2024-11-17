@@ -141,6 +141,7 @@
         </toc-element>
         <toc-element topic="소프트웨어-개발-방법론-프로젝트-관리.md">
             <toc-element topic="OpenAPI와-스웨거를-활용한-실전-API-설계.md">
+                <toc-element topic="API-요청-준비.md"/>
                 <toc-element topic="OpenAPI-형식으로-기존-제품의-API-기술해-보기.md"/>
             </toc-element>
             <toc-element topic="프론트엔드-성능-최적화-가이드.md">
