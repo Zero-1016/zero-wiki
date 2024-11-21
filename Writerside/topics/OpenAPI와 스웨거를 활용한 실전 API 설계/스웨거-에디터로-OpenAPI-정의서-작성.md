@@ -16,7 +16,7 @@
 
 ### 1.2 UI 문서 패널
 
-에디터 패널에 작성된 내용이 UI로 만들어저 표시된다.
+에디터 패널에 작성된 내용이 UI로 변환되어 표시된다/
 
 ### 1.3 도구 메뉴
 
@@ -41,7 +41,7 @@ paths: {}
 ```
 ### 2.2 스웨거 에디터에서 Open API 작성
 
-![image.png](스웨거 에디터를 위한 최소 조건.png)
+![스웨거 에디터에서 작성한 최소 조건은 OpenAPI 정의서의 필수 필드들로 구성된다.](스웨거 에디터를 위한 최소 조건.png)
 
 ### 2.3 검증
 
@@ -57,7 +57,7 @@ info: # 기술할 API 메타데이터를 info 객체에 저장
 servers:
   - url: http://localhost:9090
 paths: 
-  /introduce:
+  /path/{pathId}:
     get:
       description: 패스의 소개 페이지에 해당하는 정보를 호출합니다.
       parameters:
@@ -65,10 +65,10 @@ paths:
           description: 패스의 아이디로 소개 페이지에 해당하는 내용을 호출합니다.
           in: query
           schema:
-            type: number
+            type: integer
       responses:
         200:
-          description: 패스의 소개 내용을 불러옵니다.
+          description: 성공적으로 패스 소개 내용을 반환합니다.
 ```
 
 ![image.png](스웨거 에디터 일반 호출 예시 파일.png)
@@ -84,6 +84,72 @@ servers:
   - url: http://localhost:9090
 ```
 
-servers를 기술해줌으로서 서버 위치를 지정할 수 있다.
+`servers`는 API 서버의 기본 URL을 정의합니다. 사용자가 Try it out 기능을 사용해 호출할 서버를 명시합니다.
 
 ![image.png](텍스트 에디터로 서버로 직접 호출하기.png)
+
+```yaml
+openapi: 3.0.3
+info:
+  title: a-ni API
+  version: v0.0.1
+servers:
+  - url: http://localhost:9090
+paths:
+  /path/{pathId}:
+    get:
+      summary: 특정 패스의 소개 정보를 호출합니다.
+      description: 패스의 고유 ID를 경로 변수로 받아 해당 패스의 정보를 반환합니다.
+      parameters:
+        - name: pathId
+          in: path
+          required: true
+          description: 패스의 고유 ID
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: 성공적으로 패스 소개 내용을 반환합니다.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  title:
+                    type: string
+                    description: 소개 제목
+                  description:
+                    type: string
+                    description: 소개 내용
+        '404':
+          description: 요청한 패스를 찾을 수 없습니다.
+```
+
+#### TMI) 경로변수
+
+경로 변수 사용
+paths 섹션에서 `{pathId}`와 같이 경로 변수로 데이터를 받기 위해 다음과 같이 수정했습니다.
+
+```yaml
+/path/{pathId}:
+```
+그리고 parameters에서 경로 변수에 대한 상세 정보를 작성했습니다.
+
+```yaml
+parameters:
+- name: pathId
+  in: path
+  required: true
+  description: 패스의 고유 ID
+  schema:
+    type: integer
+```
+
+응답 코드 추가
+경로 변수로 받은 pathId에 해당하는 리소스를 찾지 못했을 때를 나타내기 위해 404 응답 코드를 추가했습니다.
+
+```yaml
+responses:
+  '404':
+    description: 요청한 패스를 찾을 수 없습니다.
+```
