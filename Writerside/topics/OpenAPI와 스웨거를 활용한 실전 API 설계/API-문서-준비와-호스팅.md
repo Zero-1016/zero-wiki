@@ -79,7 +79,7 @@ paths:
 
 파일 경로는 다음과 같다.
 
-```plain text
+```text
 📂 root
     ⚛️ index.html
     📜 openapi.yml
