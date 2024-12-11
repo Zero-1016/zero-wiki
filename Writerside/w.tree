@@ -16,6 +16,7 @@
                     <toc-element topic="03장-자바스크립트-개발-환경과-실행-방법.md"/>
                     <toc-element topic="04장-변수.md"/>
                     <toc-element topic="05장-표현식과-문.md"/>
+                    <toc-element topic="06장-데이터-타입.md"/>
                 </toc-element>
             </toc-element>
             <toc-element topic="TypeScript.md">
