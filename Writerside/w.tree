@@ -142,6 +142,10 @@
             <toc-element topic="비전공자를-위한-이해할-수-있는-IT지식.md"/>
         </toc-element>
         <toc-element topic="자기계발-학습-방법론.md">
+            <toc-element topic="Next Career.md">
+                <toc-element topic="나와-회사의-교집합-찾기.md"/>
+                <toc-element topic="성장의-불안을-기회로-성과와-기여로-만드는-커리어와-자기-확신.md"/>
+            </toc-element>
             <toc-element topic="1만-시간의-재발견.md"/>
         </toc-element>
         <toc-element topic="소프트웨어-개발-방법론-프로젝트-관리.md">
