@@ -19,6 +19,7 @@
                     <toc-element topic="06장-데이터-타입.md"/>
                     <toc-element topic="07장-연산자.md"/>
                     <toc-element topic="08장-제어문.md"/>
+                    <toc-element topic="09장-타입-변환과-단축-평가.md"/>
                 </toc-element>
             </toc-element>
             <toc-element topic="TypeScript.md">
