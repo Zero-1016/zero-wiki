@@ -9,6 +9,11 @@
     <toc-element topic="zero-wiki.topic">
         <toc-element topic="프로그래밍-개발-기술.md">
             <toc-element topic="JavaScript.md">
+                <toc-element topic="Asynchronous-Javascript.md"/>
+                <toc-element topic="Lexical-Scope.md"/>
+                <toc-element topic="Execution-Context.md"/>
+                <toc-element topic="Lexical-Environment.md">
+                </toc-element>
                 <toc-element topic="코어-자바스크립트.md"/>
                 <toc-element topic="모던-자바스크립트-Deep-Dive.md">
                     <toc-element topic="01장-프로그래밍.md"/>
@@ -188,4 +193,5 @@
             </toc-element>
         </toc-element>
     </toc-element>
+    <toc-element topic="Closure.md"/>
 </instance-profile>
