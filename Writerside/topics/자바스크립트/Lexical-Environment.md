@@ -33,7 +33,7 @@ function foo(){
 
 위 코드는 다음과 같은 값들을 포함하고 있습니다.
 
-```Plain Text
+```text
 Global Lexical Environment
 
 Environment Record:
@@ -47,7 +47,7 @@ outer: null
 
 foo 함수의 Lexical Environment를 확인하면 다음과 같습니다.
 
-```plain text
+```text
 Environment Record:
 - a = 10
 - b = "tex"
