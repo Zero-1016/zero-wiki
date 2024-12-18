@@ -30,6 +30,7 @@
                     <toc-element topic="10장-객체-리터럴.md"/>
                     <toc-element topic="11장-원시-값과-객체의-비교.md"/>
                     <toc-element topic="12장-함수.md"/>
+                    <toc-element topic="13장-스코프.md"/>
                 </toc-element>
             </toc-element>
             <toc-element topic="TypeScript.md">
