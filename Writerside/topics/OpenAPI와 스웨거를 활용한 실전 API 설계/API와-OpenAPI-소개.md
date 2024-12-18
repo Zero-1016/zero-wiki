@@ -1,4 +1,4 @@
-# OpenAPI 형식으로 기존 제품의 API 기술해 보기
+# API와 OpenAPI 소개
 
 ## 1.API 생태계란?
 
