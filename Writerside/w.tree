@@ -35,6 +35,7 @@
                     <toc-element topic="15장-let-const-키워드와-블록-레벨-스코프.md"/>
                     <toc-element topic="16장-프로퍼티-어트리뷰트.md"/>
                     <toc-element topic="17장-생성자-함수에-의한-객체-생성.md"/>
+                    <toc-element topic="18장-함수와-일급-객체.md"/>
                 </toc-element>
             </toc-element>
             <toc-element topic="TypeScript.md">
