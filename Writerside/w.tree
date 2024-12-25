@@ -39,6 +39,7 @@
                     <toc-element topic="19장-프로토타입.md">
                     </toc-element>
                     <toc-element topic="20장-strict-mode.md"/>
+                    <toc-element topic="21장-빌트인-객체.md"/>
                 </toc-element>
             </toc-element>
             <toc-element topic="TypeScript.md">
