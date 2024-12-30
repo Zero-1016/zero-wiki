@@ -44,6 +44,7 @@
                     <toc-element topic="23장-실행-컨텍스트.md"/>
                     <toc-element topic="24장-클로저.md"/>
                     <toc-element topic="25장-클래스.md"/>
+                    <toc-element topic="26장-ES6-함수의-추가-기능.md"/>
                 </toc-element>
             </toc-element>
             <toc-element topic="TypeScript.md">
