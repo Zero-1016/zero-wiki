@@ -47,6 +47,7 @@
                     <toc-element topic="26장-ES6-함수의-추가-기능.md"/>
                     <toc-element topic="27장-배열.md"/>
                     <toc-element topic="28장-Number.md"/>
+                    <toc-element topic="29장-Math.md"/>
                 </toc-element>
             </toc-element>
             <toc-element topic="TypeScript.md">
