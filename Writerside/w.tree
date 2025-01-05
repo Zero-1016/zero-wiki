@@ -50,6 +50,7 @@
                     <toc-element topic="29장-Math.md"/>
                     <toc-element topic="30장-Date.md"/>
                     <toc-element topic="31장-ReqExp.md"/>
+                    <toc-element topic="33장-Symbol.md"/>
                 </toc-element>
             </toc-element>
             <toc-element topic="TypeScript.md">
