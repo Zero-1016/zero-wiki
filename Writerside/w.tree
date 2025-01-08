@@ -18,6 +18,7 @@
                 </toc-element>
                 <toc-element topic="코어-자바스크립트.md"/>
                 <toc-element topic="모던-자바스크립트-Deep-Dive.md">
+                    <toc-element topic="34장-이터러블.md"/>
                     <toc-element topic="01장-프로그래밍.md"/>
                     <toc-element topic="02장-자바스크립트란.md"/>
                     <toc-element topic="03장-자바스크립트-개발-환경과-실행-방법.md"/>
