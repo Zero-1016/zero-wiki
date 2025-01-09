@@ -53,6 +53,7 @@
                     <toc-element topic="32장-String.md"/>
                     <toc-element topic="33장-Symbol.md"/>
                     <toc-element topic="34장-이터러블.md"/>
+                    <toc-element topic="35장-스프레드-문법.md"/>
                 </toc-element>
             </toc-element>
             <toc-element topic="TypeScript.md">
