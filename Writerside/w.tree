@@ -56,6 +56,7 @@
                     <toc-element topic="35장-스프레드-문법.md"/>
                     <toc-element topic="36장-디스트럭처링-할당.md"/>
                     <toc-element topic="37장-Set과-Map.md"/>
+                    <toc-element topic="38장-브라우저의-렌더링-과정.md"/>
                 </toc-element>
             </toc-element>
             <toc-element topic="TypeScript.md">
