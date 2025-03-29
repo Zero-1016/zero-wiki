@@ -111,6 +111,7 @@
                 </toc-element>
                 <toc-element topic="자바스크립트-리액트-디자인-패턴.md">
                     <toc-element topic="01장-디자인-패턴-소개.md"/>
+                    <toc-element topic="02장-패턴성-검증-프로토-패턴-그리고-세-가지-법칙.md"/>
                 </toc-element>
                 <toc-element topic="실무로-통하는-클린-코드.md"/>
             </toc-element>
