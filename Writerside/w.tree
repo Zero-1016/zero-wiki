@@ -143,6 +143,7 @@
                     <toc-element topic="10장-모듈형-자바스크립트-디자인-패턴.md"/>
                     <toc-element topic="11장-네임스페이스-패턴.md"/>
                     <toc-element topic="12장-리액트-디자인-패턴.md"/>
+                    <toc-element topic="13장-렌더링-패턴.md"/>
                 </toc-element>
                 <toc-element topic="실무로-통하는-클린-코드.md"/>
             </toc-element>
